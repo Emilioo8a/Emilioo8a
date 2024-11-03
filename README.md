@@ -1,3 +1,5 @@
+<imagen origen="@Emilioo8a.jpg">
+
 -👋 Hola, soy @Emilioo8a
 
 -👀 Me interesa aprender sobre la IA y sus aplicaciones en la investigación científica.
