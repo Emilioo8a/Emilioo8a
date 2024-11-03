@@ -1,7 +1,5 @@
 <img src="@Emilioo8a.jpg">
 
-![Uploading @Emilioo8a.jpg…]()
-
 -👋 Hola, soy @Emilioo8a
 
 -👀 Me interesa aprender sobre la IA y sus aplicaciones en la investigación científica.
