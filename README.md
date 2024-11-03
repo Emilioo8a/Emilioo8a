@@ -1,4 +1,5 @@
-<imagen origen = "@Emilioo8a.jpg">
+
+![Uploading @Emilioo8a.jpg…]()
 
 -👋 Hola, soy @Emilioo8a
 
